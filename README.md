@@ -6,6 +6,7 @@ To demonstrate the project, an android mobile application is developed which rec
 ## Usage
 
 ### Install the ನನ್ನ ತಿಂಡಿ.apk (Nanna Tindi) and input an image
+ನನ್ನ ತಿಂಡಿ.apk - https://drive.google.com/file/d/1Sl6U7PquFg4cWA97nV7f4RtgCGhP2BNE/view?usp=sharing
 
 ![SnackRecognition and Recipe](https://github.com/user-attachments/assets/8ee9eb50-82ea-4d57-ac64-7319b8a415cf)
 
