@@ -5,15 +5,15 @@ To demonstrate the project, an android mobile application is developed which rec
 
 ## Usage
 
-Install the ನನ್ನ ತಿಂಡಿ.apk (Nanna Tindi) and input an image
+### Install the ನನ್ನ ತಿಂಡಿ.apk (Nanna Tindi) and input an image
 
 ![SnackRecognition and Recipe](https://github.com/user-attachments/assets/8ee9eb50-82ea-4d57-ac64-7319b8a415cf)
 
-if the snack is recognised, the recognition and the recipe is presented as:
+### if the snack is recognised, the recognition and the recipe is presented as:
 
 ![Snack](https://github.com/user-attachments/assets/ca81e82c-7694-485c-bc4e-4a388e28e24f)
 
-if not, the result screen would be:
+### if not, the result screen would be:
 
 ![NotASnack](https://github.com/user-attachments/assets/310ab2b2-205a-481e-b22e-f0e08cb9e08a)
 
