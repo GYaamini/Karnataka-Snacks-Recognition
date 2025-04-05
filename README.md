@@ -13,15 +13,15 @@ Deep Learning Models Comparision | Test Accuracy Comparision  |  ResNet50 70-30 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![DL](https://github.com/user-attachments/assets/30035e7f-84b2-4726-aa8d-34cd11624c3d) | ![Resnet50 final](https://github.com/user-attachments/assets/a2ecf55c-2352-4dc9-ae55-9b2da26b576d) | ![ResNet50 - 7030 final](https://github.com/user-attachments/assets/fbbb464c-dca5-4b14-8252-2ac19baf83f2)
 
-## 🎯 Key Contributions  
+## Key Contributions  
 - Proposed a novel Food Recognition transfer-learning model for recognising food with high intra-class dissimilarities and inter-class similarities within Karnataka Style Snacks.
 - Manual Data Collection
 - Achieved 94.5% test accuracy in handling unique regional variations and cultural food differences which is yet to be explored.  
 
-## 🛠️ Tools Used  
+## Tools Used  
 `Python` `Tensorflow` `ResNet50`
 
-## 📚 Resources  
+## Resources  
 - [Paper PDF](https://ieeexplore.ieee.org/document/10706576)
 - DOI: 10.1109/CCEM60455.2023.00029
 
